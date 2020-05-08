@@ -19,6 +19,8 @@ Project Organization
     │
     ├── notebooks          <- All analysis and feature engineering done. Data is loaded from personal aws instance.
     │
+    ├── presentation       <- 3 minute PDF presentation made for this project.
+    │
     └── requirements.txt   <- The requirements file for reproducing the analysis environment.
 
 
