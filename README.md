@@ -7,6 +7,9 @@ For the web deployment on heroku.app, please visit <a href="https://steam-discou
 
 For detailed explanation of this project, please visit the <a href="https://medium.com/@opophehu/supervised-classification-a0043d0c5ba5"> Medium Blog </a>.
 
+![AppImage](https://steam-discount-predictor.s3-us-west-2.amazonaws.com/static/Artboard_1.png)
+
+![Findings](https://steam-discount-predictor.s3-us-west-2.amazonaws.com/static/clf7.png)
 
 
 Project Organization
@@ -25,4 +28,4 @@ Project Organization
 
 
 --------
-
+Thank you.
